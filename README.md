@@ -10,20 +10,37 @@ For instance, if a large number of learners remain in the 'available' or 'interv
 
 ## Steps Followed
 Step 1: Loaded learner pipeline data from a CSV file into Power BI Desktop.
-Step 2: Opened Power Query Editor and enabled “Column Distribution,” “Column Quality,” and “Column Profile” under the View tab to assess data structure and completeness.
+
+Step 2: Opened Power Query Editor and enabled “Column Distribution,” “Column Quality,” and “Column Profile” under the View tab to assess 
+data structure and completeness.
+
 Step 3: Changed profiling settings to use the entire dataset instead of just the top 1,000 rows for more accurate profiling.
+
 Step 4: Cleaned the data by checking for nulls and inconsistencies. Columns were renamed and formatted for clarity (e.g., date fields, stipend amounts).
+
 Step 5: Transformed data types and created calculated columns where necessary (e.g., status logic, total top-ups).
+
 Step 6: Moved to the Report View and applied a professional theme under the View tab.
+
 Step 7: Designed the main dashboard (Page 1) with the following visuals:
+
 •	Card visual for total number of learners.
+
 •	Clustered bar chart showing number of learners per cohort and learnership type.
+
 •	Stacked column chart visualizing stipend and top-up amounts per client.
+
 •	Line chart displaying WIL (Work Integrated Learning) start dates by month and client.
+
 •	Table visual providing detailed learner-level data.
+
 •	3 slicers/filters: Learnership Type, Start Date, and End Date.
+
 Step 8: Created the second dashboard page with:
+
 •	Stacked bar chart displaying learner status distribution.
+
 •	3 slicers/filters: Placement Category, Learner Status, and Date.
+
 Step 9: Published the final report to Power BI Service for sharing and collaboration.
 
