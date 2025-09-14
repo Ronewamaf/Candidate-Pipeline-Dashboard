@@ -1,4 +1,4 @@
-# Candidate-Pipeline-Dashboard
+# Candidate_Pipeline_PowerBI_Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNTJmMDcxNmMtOGMwOS00OWNlLTgyNDgtYTdlODgxNTJlZjgzIiwidCI6IjQ0MWRiNzQ0LWY5NzUtNGI2Ny04YzU3LTA1NDFkMTI3NjM2MyJ9
 
